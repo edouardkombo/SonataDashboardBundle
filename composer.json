@@ -1,5 +1,5 @@
 {
-    "name": "edouardkombo/SonataDashboardBundle",
+    "name": "edouardkombo/sonata-dashboard-bundle",
     "description": "Provides various analytics dashboard blocks for the sonata bundles",
     "keywords": [ "dashboard", "sonata"],
     "license": "MIT",
