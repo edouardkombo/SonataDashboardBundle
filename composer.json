@@ -14,7 +14,7 @@
         {
             "name": "Edouard Kombo",
             "email": "edouard.kombo@gmail.com"
-        },        
+        }       
     ],
     "autoload": {
         "psr-0": { "Sonata\\DashboardBundle": "" }
