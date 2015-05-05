@@ -1,6 +1,6 @@
 {
-    "name": "sonata-project/dashboard-bundle",
-    "description": "Provides various dashboard blocks for the sonata bundles",
+    "name": "edouardkombo/SonataDashboardBundle",
+    "description": "Provides various analytics dashboard blocks for the sonata bundles",
     "keywords": [ "dashboard", "sonata"],
     "license": "MIT",
     "require": {
@@ -10,7 +10,11 @@
         {
             "name": "Robert Gruendler",
             "email": "robert@dubture.com"
-        }
+        },
+        {
+            "name": "Edouard Kombo",
+            "email": "edouard.kombo@gmail.com"
+        },        
     ],
     "autoload": {
         "psr-0": { "Sonata\\DashboardBundle": "" }
